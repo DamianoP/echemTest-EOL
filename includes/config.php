@@ -82,7 +82,6 @@ $config['dbUsername'] = '';
 // Database access password
 //$config['dbPassword'] = '';
 $config['dbPassword'] = '';
-//V6Jn8nunQ8TUd8BE
 /*----------------------------------*
  *  All themes configurations       *
  *----------------------------------*/
